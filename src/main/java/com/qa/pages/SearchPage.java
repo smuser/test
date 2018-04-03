@@ -6,4 +6,9 @@ public class SearchPage {
 	{
 		System.out.println("Searchpage");
 	}
+
+        public void searchPageModified()
+	{
+		System.out.println("Searchpage modified");
+	}
 }
